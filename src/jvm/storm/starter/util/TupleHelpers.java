@@ -1,8 +1,5 @@
 package storm.starter.util;
 
-import backtype.storm.Constants;
-import backtype.storm.tuple.Tuple;
-
 public final class TupleHelpers {
 
   private TupleHelpers() {
