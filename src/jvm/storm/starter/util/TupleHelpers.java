@@ -1,5 +1,8 @@
 package storm.starter.util;
 
+import org.apache.storm.Constants;
+import org.apache.storm.tuple.Tuple;
+
 public final class TupleHelpers {
 
   private TupleHelpers() {

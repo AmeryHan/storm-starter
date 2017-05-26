@@ -1,6 +1,6 @@
 package storm.starter.bolt;
 
-import backtype.storm.tuple.Tuple;
+import org.apache.storm.tuple.Tuple;
 import org.apache.log4j.Logger;
 import storm.starter.tools.Rankings;
 

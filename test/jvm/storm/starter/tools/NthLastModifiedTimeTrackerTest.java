@@ -1,6 +1,6 @@
 package storm.starter.tools;
 
-import backtype.storm.utils.Time;
+import org.apache.storm.utils.Time;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
